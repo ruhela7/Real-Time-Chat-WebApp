@@ -1,0 +1,2 @@
+# Real-Time-Chat-WebApp
+This is a simple and easy to use a real time chat web application where user can register by a unique handle and stay anonymous which give them the power to express themselves and ask for any help. I Implemented Socket.io, a JavaScript library, for real-time, bi-directional communication between clients and server. I also Integrated Multiavatar API to generate any avatar, to set as profile for client, from API endpoint using Axios library. The app is designed and coded using HTML/CSS, React, Node.js and MongoDB. 
